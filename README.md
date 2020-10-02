@@ -1,5 +1,5 @@
 # klapse
 
-Timelapse charts ofr Kryll.io platform.
+Timelapse charts for Kryll.io platform.
 https://krl-timelapse.github.io/klapse/
 
